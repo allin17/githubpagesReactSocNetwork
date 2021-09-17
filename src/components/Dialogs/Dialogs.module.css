@@ -1,0 +1,26 @@
+.dialogs{
+    display:grid;
+    grid-template-columns: 2fr 10fr;
+}
+.messageText{
+    text-align:center;
+}
+.messageBox{
+    margin: 0 auto;
+}
+.dialogsItems{
+    padding: 10px;
+    background: black;
+    border-radius: 10px;
+    text-align:center;
+}
+.dialog a{
+    text-decoration: none;
+    color:blue;
+}
+.dialog .active{
+    color:gold;
+}
+.messages{
+    padding: 10px;
+}
