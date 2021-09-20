@@ -4,6 +4,8 @@ import Post from './Post/Post';
 import {Field, reduxForm} from "redux-form";
 import {maxLengthCreator, required} from "../../../utils/validators";
 import {Textarea} from "../../../common/FormControls/FormsControls";
+import Button from 'react-bootstrap/Button';
+
 
 class MyPosts extends React.Component {
 
@@ -45,8 +47,8 @@ const maxLength10=maxLengthCreator(10)
           <Field component={Textarea} name={'newPostMessage'}
                  validate={[required, maxLength10]}/>
           {/*<textarea onChange={onPostChange} ref={newPostElement} value={props.newPostText}/>*/}
-          <button>Add post</button>
-          <button>Remove post</button>
+          <Button variant="primary">Add post</Button>
+          <Button variant="primary">Remove post</Button>
       </form>
   }
 const PostsFormRedux = reduxForm({form: 'postsForm'})(PostsForm)

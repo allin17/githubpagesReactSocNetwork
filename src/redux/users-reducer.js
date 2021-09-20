@@ -1,4 +1,4 @@
-import {getUsers, usersAPI} from "../API/API";
+import {usersAPI} from "../API/API";
 
 const FOLLOW = 'FOLLOW';
 const UNFOLLOW = 'UNFOLLOW';
@@ -66,14 +66,13 @@ const usersReducer = (state=initialState, action)=> {
         case TOGGLE_IS_FOLLOWING_PROGRESS:{
             return{
                 ...state,
-                followingInProgress: action.isFetching ? [...state.followingInProgress ,action.userId] :[...state.followingInProgress.filter(id=>id!=action.userId)]
+                followingInProgress: action.isFetching ? [...state.followingInProgress ,action.userId] :[...state.followingInProgress.filter(id=>id!==action.userId)]
             }
         }
         default:
             return state;
     }
 
-    return state;
 }
 
 export const followSuccess = (userId) => ({type: FOLLOW, userId})
