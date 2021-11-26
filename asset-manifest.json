@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/githubpagesReactSocNetwork/static/css/main.f4b980f0.chunk.css",
+    "main.js": "/githubpagesReactSocNetwork/static/js/main.1b301b4c.chunk.js",
+    "main.js.map": "/githubpagesReactSocNetwork/static/js/main.1b301b4c.chunk.js.map",
+    "runtime-main.js": "/githubpagesReactSocNetwork/static/js/runtime-main.cf336e39.js",
+    "runtime-main.js.map": "/githubpagesReactSocNetwork/static/js/runtime-main.cf336e39.js.map",
+    "static/js/2.b5ed2ecd.chunk.js": "/githubpagesReactSocNetwork/static/js/2.b5ed2ecd.chunk.js",
+    "static/js/2.b5ed2ecd.chunk.js.map": "/githubpagesReactSocNetwork/static/js/2.b5ed2ecd.chunk.js.map",
+    "static/css/3.7bb3214b.chunk.css": "/githubpagesReactSocNetwork/static/css/3.7bb3214b.chunk.css",
+    "static/js/3.306074a1.chunk.js": "/githubpagesReactSocNetwork/static/js/3.306074a1.chunk.js",
+    "static/js/3.306074a1.chunk.js.map": "/githubpagesReactSocNetwork/static/js/3.306074a1.chunk.js.map",
+    "static/css/4.2b77ab6c.chunk.css": "/githubpagesReactSocNetwork/static/css/4.2b77ab6c.chunk.css",
+    "static/js/4.4a76dc70.chunk.js": "/githubpagesReactSocNetwork/static/js/4.4a76dc70.chunk.js",
+    "static/js/4.4a76dc70.chunk.js.map": "/githubpagesReactSocNetwork/static/js/4.4a76dc70.chunk.js.map",
+    "static/js/5.1a5f4a68.chunk.js": "/githubpagesReactSocNetwork/static/js/5.1a5f4a68.chunk.js",
+    "static/js/5.1a5f4a68.chunk.js.map": "/githubpagesReactSocNetwork/static/js/5.1a5f4a68.chunk.js.map",
+    "index.html": "/githubpagesReactSocNetwork/index.html",
+    "static/css/3.7bb3214b.chunk.css.map": "/githubpagesReactSocNetwork/static/css/3.7bb3214b.chunk.css.map",
+    "static/css/4.2b77ab6c.chunk.css.map": "/githubpagesReactSocNetwork/static/css/4.2b77ab6c.chunk.css.map",
+    "static/css/main.f4b980f0.chunk.css.map": "/githubpagesReactSocNetwork/static/css/main.f4b980f0.chunk.css.map",
+    "static/js/2.b5ed2ecd.chunk.js.LICENSE.txt": "/githubpagesReactSocNetwork/static/js/2.b5ed2ecd.chunk.js.LICENSE.txt",
+    "static/media/1480.ee3fdf30.gif": "/githubpagesReactSocNetwork/static/media/1480.ee3fdf30.gif",
+    "static/media/ProfileStatusWithHooks.bd7e6779.bin": "/githubpagesReactSocNetwork/static/media/ProfileStatusWithHooks.bd7e6779.bin",
+    "static/media/user.e1b99a4e.png": "/githubpagesReactSocNetwork/static/media/user.e1b99a4e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf336e39.js",
+    "static/js/2.b5ed2ecd.chunk.js",
+    "static/css/main.f4b980f0.chunk.css",
+    "static/js/main.1b301b4c.chunk.js"
+  ]
+}
